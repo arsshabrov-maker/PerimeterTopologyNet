@@ -49,3 +49,11 @@ Evaluated at equal parameter budgets (`~490` vs `~481` parameters) across all 10
 pip install -r requirements.txt
 python benchmark_10_datasets.py
 ```
+[![DOI](https://zenodo.org)](https://doi.org)
+
+---
+
+## 📜 Citation
+
+If you use **PerimeterTopologyNet** in your research, please cite this repository:
+
